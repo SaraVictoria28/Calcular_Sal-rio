@@ -1,0 +1,14 @@
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\bin\Debug\net9.0\Calcular_Salario.exe
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\bin\Debug\net9.0\Calcular_Salario.deps.json
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\bin\Debug\net9.0\Calcular_Salario.runtimeconfig.json
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\bin\Debug\net9.0\Calcular_Salario.dll
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\bin\Debug\net9.0\Calcular_Salario.pdb
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\Calcular_Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\Calcular_Salario.AssemblyInfoInputs.cache
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\Calcular_Salario.AssemblyInfo.cs
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\Calcular_Salario.csproj.CoreCompileInputs.cache
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\Calcular_Salario.dll
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\refint\Calcular_Salario.dll
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\Calcular_Salario.pdb
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\Calcular_Salario.genruntimeconfig.cache
+C:\Users\sara0\OneDrive\Documentos\Ead\Calcular_Salario\obj\Debug\net9.0\ref\Calcular_Salario.dll
