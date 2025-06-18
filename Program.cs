@@ -12,9 +12,9 @@ namespace MyApp
         {
             List<Funcionario> funcionario = new List<Funcionario>
             {
-                new Gerente("Ana", "147.258.369-12", 5000.00),
-                new Estagiario("João", "69.258.147-33", 1920.00),
-                new FuncionariComum("Carlos", "123.456.789-00",3000.00)
+                new Gerente("Ana", "147.258.369-12", 5000),
+                new Estagiario("João", "69.258.147-33", 2000),
+                new FuncionariComum("Carlos", "123.456.789-00",3000)
             };
 
             foreach ( var empregado in funcionario)
